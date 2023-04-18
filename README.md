@@ -10,7 +10,7 @@ Pragmatic Dev and DevOps Advocat
 * 🧠  I'm learning GitOps so I can help ship things fast and safe 🚀.
 * 🧠  I like it functional and declarative.
 * 💬 Ask me about driving state. 
-* 🤝  I'm open for collaboration on Kubernetes, Cloud, Destributed Systems, Clojure and around the JVM.
+* 🤝  I'm open for collaboration on Kubernetes, Cloud, Distributed Systems, Clojure and around the JVM.
 * 🌍 I run [contentreich.de](https://www.contentreich.de/).
 
 ### Socials
