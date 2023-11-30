@@ -5,6 +5,7 @@ Pragmatic Dev and DevOps Advocat
 --------------------------------
 
 * 🌍  I'm based in Hamburg.
+* 🧠  I ❤️ building things people use.
 * 🧠  I consider DevOps a culture, and I believe that "Culture eats strategy for breakfast".
 * 🧠  I consider complexity very bad, and I always aim at simplicity.
 * 🧠  I'm learning GitOps so I can help ship things fast and safe 🚀.
