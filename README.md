@@ -8,6 +8,7 @@ DevOps Minded Cloud-/Java-/Spring Developer
 * 🧠  I ❤️ building things people use.
 * 🧠  I consider DevOps a culture, and I believe that "Culture eats strategy for breakfast".
 * 🧠  I consider complexity very bad, and I always aim at simplicity.
+* 🧠  Cost of Software roughly equals Cost of Change (Kent Beck). Agility is a key architectural charateristic. Build for Change. 🚀.
 * 🧠  I'm learning GitOps so I can help ship things fast and safe 🚀.
 * 🧠  I like it functional and declarative.
 * 💬 Ask me about driving state. 
